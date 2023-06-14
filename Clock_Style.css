@@ -1,7 +1,5 @@
 .clock {
     position: absolute;
-    top: 50px;
-    right: 65px;
     color: white;
     font-size: 60px;
     font-family: monospace;

@@ -1,11 +1,11 @@
 .clock {
     position: absolute;
     color: white;
-    font-size: 40px;
+    font-size: 45px;
     font-family: monospace;
-    letter-spacing: -5px;
+    letter-spacing: -1px;
     background: #FBCEB5;
-    padding: 20px 35px;
+    padding: 20px 20px;
     border-radius: 100px;
 
 }

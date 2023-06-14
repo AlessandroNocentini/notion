@@ -3,9 +3,9 @@
     color: white;
     font-size: 45px;
     font-family: 'Orbitron';
-    letter-spacing: -1px;
+    letter-spacing: 0px;
     background: #FBCEB5;
-    padding: 20px 20px;
-    border-radius: 100px;
+    padding: 10px 18px 12px;
+    border-radius: 16px;
 
 }

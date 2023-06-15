@@ -6,7 +6,7 @@
     font-size: 45px;
     font-family: 'Orbitron';
     letter-spacing: 0px;
-    background: #FBCEB5;
+    background: linear-gradient(to top, #FBCEB5 50%, #f6b094 50%);
     padding: 7% 9%;
     border-radius: 13px;
 }
